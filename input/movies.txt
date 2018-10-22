@@ -1,0 +1,26 @@
+@title
+Mad Max: Fury Road
+@director
+George Miller
+@genre
+Action
+@year
+2014
+@rating
+8.1
+@cast
+Tom Hardy,Charlize Theron,Nicholas Hoult
+---
+@title
+John Wick
+@director
+Chad Stahelski
+@genre
+Action
+@year
+2014
+@rating
+7.2
+@cast
+Keanu Reeves,Michael Nyqvist,Alfie Allen
+---
